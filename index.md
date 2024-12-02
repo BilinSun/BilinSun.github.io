@@ -1,8 +1,1 @@
----
-layout: default
-title: Blog
----
-
-{% for post in site._posts %}
-  - [{{ post.title }}]({{ post.url }})
-{% endfor %}
+Welcome to my blog! You can find my reflections on mathematics, notes on programming and more.
