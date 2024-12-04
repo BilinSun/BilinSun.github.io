@@ -6,4 +6,4 @@ tags: [PyTorch]
 ---
 
 The write-up is in LaTeX.
-<a href="/_posts/2024-03-15-PyTorch-save-non-tensor-parameters/main.pdf" class="image fit">The PDF file.</a>
+<a href="https://github.com/BilinSun/BilinSun.github.io/blob/main/_posts/2024-03-15-PyTorch-save-non-tensor-parameters/main.pdf" class="image fit">The PDF file.</a>
