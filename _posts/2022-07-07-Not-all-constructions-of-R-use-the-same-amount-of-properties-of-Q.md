@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Not all constructions of $\mathbb R$ use the same amount of properties of $\mathbb Q$"
+title: "Not all constructions of $\\mathbb R$ use the same amount of properties of $\\mathbb Q$"
 date: 2022-07-07
 tags: [mathematics]
 ---
