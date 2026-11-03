@@ -12,13 +12,17 @@ AI use disclosure: the post was entirely written by hand. Then I showed it to Ch
 I recently came across the following meme and I find it thought-provoking.
 
 > @martianwyrdlord
+>
 > 10 Oct
+>
 > Another angle to this is that dogs effectively stumbled onto what is for them the equivalent of artificial superintelligence 20,000 years ago. The Singularity already happened for dogs. They live in a world they cannot understand, surrounded by miraculous wonders they take entirely for granted, their every need seen to by entities whose thoughts they cannot begin to fathom.
+>
 > The result is that there are about a billion dogs on the planet now. Most of them are pretty happy. Almost none of them need to work. It worked out pretty well for them.
 
 But in this post I'm not going to elaborate on my own interpretations yet. Instead, I'm writing to refute something I absolutely loathe: the interpretation of this as outlining how humans will be enslaved or petted in some dystopian sense. [Some](https://pjamesstuart.substack.com/p/our-lives-as-dogs) would even go on to picture:
 
 > About 15% to 20% of men on earth are [going to be] pets. ... They are very often surgically altered and made infertile, male humans often have their balls removed. ... There is a senate, or a parliament, full of pet humans. Its[sic] sometimes hard for you to be around each other, people get frantic. And the Machines insist you allow the mutants to take part; ‘its[sic] only fair’. ... You do not get to decide what you eat, but your Master knows what you like and regularly serves up something broadly palatable. ...
+>
 > About one to three per-cent of living humans are [going to be] genetic horrors that should not exist. While humans have always been bred partially for aesthetics, their loss of utility, and a strange, slightly deranged attitude towards genetic competition, gene line purity and ‘classic’ traits, have lead many lines to become less mentally stable, less physically healthy and for some to become so physically distorted that their lives are ones of constant suffering; long spines that cannot support themselves, swollen skulls and tiny jaws, leaving them unable to breathe, and so on. Others are bred for ‘classic’ racial or decent characteristics, bred to an historic standard and costumed and raised appropriately, bred for extreme sexual dimorphism, (these can no longer physically breed without technical aid), or are simply experiments to see what morphology you can come up with. These men are sometimes exposed to or allowed to mix with more stable, functional, pets, and sometimes this can cause problems of various kinds. ...
 
 It's the same folly as behind people who end up persecuting people in the name of religions:
